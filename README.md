@@ -1,3 +1,3 @@
 # HeartFailurePrediction
 
-In progress classifier 
+In progress k nearest neighbors classifier 
